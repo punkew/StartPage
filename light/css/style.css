@@ -1,0 +1,51 @@
+body
+{
+	background-color: #cccccc;
+	font-family: 'Roboto', sans-serif;
+}
+
+a
+{
+	text-decoration: none;
+	color: #999999;
+}
+a:hover
+{
+	color: #000000;
+}
+
+table
+{
+	color: #000000;
+	text-align: center;
+	margin: auto;
+	padding-top: 15vh;
+}
+td
+{
+	padding: 10px 35px;
+}
+th
+{
+	padding: 30px;
+}
+
+p {
+	color: #999999;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	padding: 5px;
+	margin: 0px;
+}
+
+input {
+	width: 100%;
+	height: 100%;
+	color: #999999;
+	background-color: #cccccc;
+	border: none;
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
