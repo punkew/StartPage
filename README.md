@@ -1,7 +1,7 @@
 [dark]: https://punkew.github.io/StartPage/dark/
-[darkImg]: https://punkew.github.io/StartPage/docs/dark.png
+[darkImg]: https://github.com/punkew/StartPage/blob/master/docs/dark.png
 [light]: https://punkew.github.io/StartPage/light/
-[lightImg]: https://punkew.github.io/StartPage/docs/light.png
+[lightImg]: https://github.com/punkew/StartPage/blob/master/docs/light.png
 
 # StartPage
 This is a start page designed specifically to look nice with Microsoft Edge. It has two flavours:
@@ -11,7 +11,6 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 ## Contents
 * [Install](#install)
 * [New Tab Behaviour](#new-tab-behaviour)
-* [Questions](#questions)
 
 ---
 
